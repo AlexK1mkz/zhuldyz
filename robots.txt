@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /uploads/
+Disallow: /_ds/
+Disallow: /master.html
+
+Sitemap: https://zhuldyzkuanyshevna.com/sitemap.xml
